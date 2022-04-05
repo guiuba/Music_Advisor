@@ -7,4 +7,6 @@ Thanks Jet Brains Academy, for this very educational project, I learned a lot ma
 running a callback server and processing received requests. To better organize the code I also separated the user interface from the business 
 logic and data access logic following the MVC pattern.
 
+![image](https://user-images.githubusercontent.com/69851038/161840225-3e0823c1-cb07-410e-a235-fcb0ca066e80.png)
+
 
